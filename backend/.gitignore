@@ -1,0 +1,11 @@
+.env
+/.venv
+/.idea
+/logs
+/data
+/models
+/tests
+/docs
+/examples
+/scripts
+/configs
